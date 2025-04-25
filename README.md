@@ -3,7 +3,7 @@
 ## 🧩 Descripción
 
 Pokédex interactiva desarrollada con React + Vite y CSS puro.
-
+link de acceso vista previa: https://pokedexbyzarco.netlify.app/
 ## 🚀 Tecnologías Utilizadas
 
 - ⚛️ React
