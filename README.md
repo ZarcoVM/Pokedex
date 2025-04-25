@@ -19,3 +19,4 @@ Sigue estos pasos para correr el proyecto en tu máquina local:
 2. cd Pokedex
 3. npm install
 
+### npm run dev para correr la aplicacion
